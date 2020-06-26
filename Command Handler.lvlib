@@ -43,11 +43,8 @@
 		</Item>
 	</Item>
 	<Item Name="Command Parents" Type="Folder">
-		<Item Name="Command.lvclass" Type="LVClass" URL="../Command Parents/Command.lvclass"/>
-		<Item Name="Command with Input.lvclass" Type="LVClass" URL="../Command Parents/Command with External Reference/Command with Input.lvclass"/>
-	</Item>
-	<Item Name="Test Harness" Type="Folder">
-		<Item Name="Test Harness.vi" Type="VI" URL="../Test Harness/Test Harness.vi"/>
+		<Item Name="Command.lvclass" Type="LVClass" URL="../Command Parent/Command.lvclass"/>
 	</Item>
 	<Item Name="Command Handler.lvclass" Type="LVClass" URL="../Command Handler/Command Handler.lvclass"/>
+	<Item Name="Test Harness.vi" Type="VI" URL="../Test Harness.vi"/>
 </Library>
